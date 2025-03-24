@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-03-24T23:57:32.769Z",
+  "created_by": "b1underbuss",
+  "title": "The Cinnamon Peeler",
+  "slug": "the-cinnamon-peeler",
+  "updated_at": "2025-03-24T23:57:32.769Z",
+  "updated_by": "b1underbuss",
+  "parent": "06a1ec5a-a5a9-4b91-b327-e42487bbf170",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "af4125b7-01c0-4082-ac6f-162e1ee5f680"
+  }
+}
