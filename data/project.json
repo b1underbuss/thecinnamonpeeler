@@ -48,10 +48,6 @@
           "category": "Background"
         },
         {
-          "tag": "Definition",
-          "category": "Background"
-        },
-        {
           "tag": "Caesura",
           "category": "Form"
         },
@@ -90,7 +86,7 @@
       ]
     },
     "created_at": "2025-03-24T19:31:09.074Z",
-    "updated_at": "2025-03-25T00:42:01.817Z",
+    "updated_at": "2025-03-25T00:42:05.177Z",
     "generate_pages_site": true
   },
   "is_private": false
