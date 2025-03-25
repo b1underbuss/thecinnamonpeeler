@@ -1,1 +1,498 @@
-{"annotations":[],"set":"Default","event_id":"af4125b7-01c0-4082-ac6f-162e1ee5f680","source_id":"5968ef2d-2401-40a3-b082-f0e61b21fb1c"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Cinnamon Peeler."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "886b7cf1-a9ee-44a9-a8a3-4fb2a7149512"
+    },
+    {
+      "start_time": 3,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If I were a cinnamon peeler / I would ride your bed / and leave the yellow bark dust / on your pillow. (pause, caesura) Gaps between each individual line and inbetween stanzas throughout the performance. Shorter but noticeable gaps inbetween lines, longer 1 to 2 second gaps inbetween stanzas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "8c31f3aa-a604-4bc6-ac55-0f5e61ffd782"
+    },
+    {
+      "start_time": 11,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Your breasts and shoulders would reek / you could never walk through markets / without the profession of my fingers / floating over you / The blind would / stumble certain of whom they approached / though you might bathe / under rain gutters, monsoon (pause, caesura) "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "05f2da25-c372-40f0-9386-0061e74feb8a"
+    },
+    {
+      "start_time": 31,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here on the upper thigh / at this smooth pasture / neighbour to your hair / or the crease / that cuts your back. This ankle / You will be known among strangers / as the cinnamon peeler's wife (pause, caesura)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "58637534-56f3-4a97-ad54-88cd97642bbd"
+    },
+    {
+      "start_time": 47,
+      "end_time": 63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I could hardly glance at you / before marriage / never touch you / - your keen nosed mother, your rough brothers, / I buried my hands / in saffron, disguised them / over smoking tar / helped the honey gatherers (pause, caesura)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "9fb79248-dd39-4a9a-9769-cca81f0a5c67"
+    },
+    {
+      "start_time": 65,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When we swam once / I touched you in water / and our bodies remained free / (pause, caesura) you could hold me and be blind of smell / You climbed the bank and said. Tempo speeds up at the end up of this stanza and immediately breaks into the next lines without a gap."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "d6b098aa-eb97-4957-95b3-ea1299f23add"
+    },
+    {
+      "start_time": 75,
+      "end_time": 85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is how you touch other women / the grass cutter's wife, the lime burner's daughter / And you searched your arms / for the missing perfume"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "240b3cdc-81e5-4ba3-ba50-3848d1ab4231"
+    },
+    {
+      "start_time": 86,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And knew"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "7d3f88e1-3e3d-4647-9ca0-aedc25e9c831"
+    },
+    {
+      "start_time": 88,
+      "end_time": 103,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What good is it / to be the lime burner's daughter / left with no trace / as if not spoken to in the act of love / as if wounded without the pleasure of a scar (pause, caesura)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "65e09786-8566-4598-b021-103f092c2bee"
+    },
+    {
+      "start_time": 105,
+      "end_time": 114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You touched / your belly to my hands / in the dry air and said / I am the cinnamon peeler's wife. / (pause, caesura) Smell me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "9e18bdc7-8a78-4e98-b2d8-412c2ec321c5"
+    },
+    {
+      "start_time": 3,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stanza One / The cinnamon peeler is metaphoric and used as a mantra that situates historical customs about love. The more conservative nature of courtship and premarital affairs, Ondaatje's perception of this love as romanticized, and a more natural environment as Ondaatje's location in this poem refers to a developing Ceylon/Sri Lanka. Ondaatje's poem \"The Cinnamon Peeler\" is an example of a free verse structure as the stanzas vary in line length, including stanza seven which has one line (\"and knew\")"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "7b221290-6907-432b-b6be-9e9668ca4de9"
+    },
+    {
+      "start_time": 11,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stanza Two / The ends of lines are stressed. This stanza flows unrestrained with natural descriptions referring to the act of bathing in rain, or monsoons. The reference to breasts, touch, and fingers activate sensory descriptions that shine through an oral performance. Through performance, the content of this stanza also increases awareness of the taboo of it's content, in references to premarital activities that may be perceived as scandalous in this historical context."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        },
+        {
+          "tag": "Meter",
+          "category": "Form"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "aca8531b-9588-48f6-8881-665ccf334b01"
+    },
+    {
+      "start_time": 31,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stanza Three / This is a continuation of the ideas in stanza two, as the speaker continues to deliver sensual and naturalistic descriptions of his lover, then claiming his lover through the titular status \"the cinnamon peeler's wife.\" The speaker identifies different body parts of his lover that define a range throughout from his lover's head of hair down to her ankles. The line \"the crease that cuts your back\" ends in a stressed tone that suggests the speaker's fondness and adoration towards his lover."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        },
+        {
+          "tag": "Meter",
+          "category": "Form"
+        }
+      ],
+      "uuid": "b4c1746a-7728-48c7-8657-cfdeeff50afc"
+    },
+    {
+      "start_time": 47,
+      "end_time": 63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stanza Four / A counterpoint to freely loving without constraints is presented through cultural pressures situated in history and location, as the speaker references that the idea physical touch met the disapproval of his lover's family. The sense of smell becomes more important as the scent of cinnamon is attached to a negative connotation that the speaker disguises through the use of saffron and tar. Marriage is sacred  and the smell of cinnamon is powerful and when present, it pervades it's surroundings. The cinnamon peeler's lover would be closely associated to him were they to make contact with each other that could not be hidden from the public, and therefore they need to be wed, as any intimacy would immediately impact the lover's identity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "e5f87303-3180-425f-a9d5-0351ead04cad"
+    },
+    {
+      "start_time": 65,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stanza Five / This five-line stanza embraces freedom through the event of swimming together unrestrained, in a body of water where their \"bodies remained free.\" The act of being in the moment together even disregards the other senses, particularly smell."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "4781cd84-673e-4a14-8f0e-940a8fc99bfe"
+    },
+    {
+      "start_time": 75,
+      "end_time": 85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stanza Six / The speaker's lover compares his odorless touch of previous lovers with disdain, suggesting she does not want to be odorless of the cinnamon scent, embracing identity. Aside from a pause between \"wife\" and \"the lime burner's daughter\" this stanza is read in a faster tempo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "1b3189b5-12f8-4f72-b86b-1b688c61f829"
+    },
+    {
+      "start_time": 86,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stanza Seven / Marks a turn for the poem as the focus shifts to an appreciation for the lover and while the majority of the poem focuses on the speaker's feelings, the feelings of the speaker's lover are also important. This is stressed through a single line stanza."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        },
+        {
+          "tag": "Meter",
+          "category": "Form"
+        }
+      ],
+      "uuid": "b58794fd-0d39-4dee-9374-450509947536"
+    },
+    {
+      "start_time": 88,
+      "end_time": 103,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stanza Eight / The stressing of syllables is more prominent in the last two lines of this stanza, beginning with \"as if.\" The speaker's lover realizes that she does not want to be like the previous lovers who have not captured the scent of cinnamon, relating it to the absence of any traces of love."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "tag": "Meter",
+          "category": "Form"
+        }
+      ],
+      "uuid": "1f11ca05-1b12-4796-b721-4505d2752a6c"
+    },
+    {
+      "start_time": 105,
+      "end_time": 114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stanza Nine / Naturalistic components (the belly, the dry air) are present and make up a body of sensory images as the poem concludes with the cinnamon peeler's lover embracing her identity as his wife, freely embracing the identity and his association to a strong scent."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "8f09449c-3630-42a3-b898-6552d92f7da5"
+    }
+  ],
+  "set": "Default",
+  "event_id": "af4125b7-01c0-4082-ac6f-162e1ee5f680",
+  "source_id": "5968ef2d-2401-40a3-b082-f0e61b21fb1c"
+}
