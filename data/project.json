@@ -1,1 +1,97 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[],"project":{"github_org":"b1underbuss","is_private":false,"title":"The Cinnamon Peeler","description":"Annotations and analysis about Michael Ondaatje's poem \"The Cinnamon Peeler.\"","language":"en","slug":"thecinnamonpeeler","creator":"b1underbuss","authors":"Nikko Zapata","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[{"login_name":"saamturner","avatar_url":"https://avatars.githubusercontent.com/u/157153031?v=4","admin":false}],"tags":{"tagGroups":[{"category":"Background","color":"#ADFFD9"},{"category":"Form","color":"#ADFEFF"},{"category":"Performance","color":"#99E6FF"}],"tags":[{"tag":"Transcription","category":"Background"},{"tag":"Context","category":"Background"},{"tag":"Identification","category":"Background"},{"tag":"Definition","category":"Background"},{"tag":"Caesura","category":"Form"},{"tag":"Rhyme","category":"Form"},{"tag":"Meter","category":"Form"},{"tag":"Verse Structure","category":"Form"},{"tag":"Tempo","category":"Performance"},{"tag":"Pitch","category":"Performance"},{"tag":"Duration","category":"Performance"},{"tag":"Amplitude","category":"Performance"},{"tag":"Timbre","category":"Performance"}]},"created_at":"2025-03-24T19:31:09.074Z","updated_at":"2025-03-25T00:41:44.039Z","generate_pages_site":true},"is_private":false}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [],
+  "project": {
+    "github_org": "b1underbuss",
+    "is_private": false,
+    "title": "The Cinnamon Peeler",
+    "description": "Annotations and analysis about Michael Ondaatje's poem \"The Cinnamon Peeler.\"",
+    "language": "en",
+    "slug": "thecinnamonpeeler",
+    "creator": "b1underbuss",
+    "authors": "Nikko Zapata",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [
+      {
+        "login_name": "saamturner",
+        "avatar_url": "https://avatars.githubusercontent.com/u/157153031?v=4",
+        "admin": false
+      }
+    ],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Background",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Form",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Performance",
+          "color": "#99E6FF"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "tag": "Definition",
+          "category": "Background"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        },
+        {
+          "tag": "Rhyme",
+          "category": "Form"
+        },
+        {
+          "tag": "Meter",
+          "category": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "tag": "Duration",
+          "category": "Performance"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ]
+    },
+    "created_at": "2025-03-24T19:31:09.074Z",
+    "updated_at": "2025-03-25T00:42:01.817Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
+}
