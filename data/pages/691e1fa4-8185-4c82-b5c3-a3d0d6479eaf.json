@@ -1,0 +1,119 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "An Introduction to AV Annotations on Michael Ondaatje’s “The Cinnamon Peeler”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "My AVAnnotate project focuses on an audio recording of Michael Ondaatje’s poem “The Cinnamon Peeler” in which I follow an approach that heavily leans on the development throughout the poem. This is further highlighted by the segmentation of stanzas, in which I transcribe each individual stanza and then follow up each transcription with a matching set of analysis and commentary. A common feature I have noted in the poem is the presence of pauses or caesura that occur at deliberate transitionary moments between stanzas, and for emphasis or dictating a shift in mood. Leading into the AVAnnotate project, I had a familiarity with Ondaatje’s Running in the Family and an awareness of the historical implications of his texts. Ondaatje’s “The Cinnamon Peeler” reads under the analytical lens of a historical narrative, and the annotations situates itself within the scope of this history. This relationship will later be explored in Christopher McVey’s “Reclaiming the Past: Michael Ondaatje and the Body of History” which conducts a historically charged analysis of Michael Ondaatje’s works, though notably “The Cinnamon Peeler.” The vision I ultimately wanted to achieve through the AVAnnotation project involved the transcription of an audiotext while provided side-by-side with commentary akin to written annotations that would be done on a textual work, such as in the margins of a printed poem or novel. Part of this vision also captures the full creative elements of poetry through performance or recording, as emotions and attribution to the senses are in full execution through a performance."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "McVey’s “Reclaiming the Past: Michael Ondaatje and the Body of History” make note that Ondaatje’s “texts are concerned not only with what historical narratives represent, but also with what any claim or representation also occludes’ (142). The matching example is our object of focus, “The Cinnamon Peeler” in which McVey notes that “the cinnamon peeler’s work—and, by proxy, his family, his location, and his historical moment—make it impossible for him to do anything more than desire his lover from a distance” (McVey 142). While the prospect of a loving relationship is common and normalized to simply occur in contemporary day, Ondaatje expresses being bound by honour, and circumstances leave his true feelings repressed because of historical and cultural pressures to stay engaged with one’s duty, such as his family. The poem’s major themes encompass societal taboo, courtship, identity and an alignment with one’s sense of identity. These ideas of courtship and historical customs about love are immediately situated in the matching commentary for stanza one, which establishes the nature of the poem as heavily character driven. Ondaatje’s turmoil as the poet himself permeates through the poem, and the nuance of his mental anguish reverberates stronger as a recording as opposed to a standalone textual reading. Caesura, a recurring tag I made note of often is a quality observed because the poem is annotated in the guise of a recording. In the poem’s shift of the latter half, my annotations argue for the poet and his lover’s yearning for freedom, and to break free from the shackles of societal shackles. This quality reinforces itself through the recording of the poem, as the poet speaks through a flowing, free verse structure."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In Charles Bernstein’s “Close Listening” a major distinction of poetry performances are introduced as Bernstein brings forward the idea of “close listening” or the study of “the poet’s own performances, the ‘total’ sound of the work, and the relation of sound to semantics” (4) as important elements present in audio recording, which are not informed through a standard reading of poems that are based exclusively on the printed text (4). In relation to “The Cinnamon Peeler,” the element of stimulating the five senses through vivid sensory descriptions strongly relates to Bernstein’s call for examining the relationship between sound and semantics, as the attunement of these senses become an essential component of a specific phrase’s purpose and meaning. Emphasis on the performance and actual poem itself also becomes more important as listeners are pressed to listen as opposed to reading and immediately conducting an individual analysis of a poem as literary text. Bernstein considers this and argues that “focusing attention on a poem’s content or form typically involves putting the audiotext as well as the typography—the sound and look of the poem—into the disattend track” (Bernstein 5) and in particular this “disattend track” (5) refers to the misaimed framing of a poem placing more weight on the form than the emotion, the performance, and the deeper meaning within as intended by the poet. Ondaatje’s “The Cinnamon Peeler” is deeply in line with his own feelings about a difficult situation in his history, because of historical constraints and his turmoil while making attempts to reconcile with his love."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Tanya Clement and Liz Fischer discuss important aspects of audio annotation in “Audiated Annotation from the Middle Ages to the Open Web” making a brief, but detailed account of the necessity to annotate audio moving forward in the future. One such point is offered in the conclusion that “in the analog world, without annotations, we cannot find or know what is in or on a sound or image artifact unless someone has annotated a name on the back of a polaroid or on a written label on an audio reel or cassette tape” (Clement and Fischer). In relation to “The Cinnamon Peeler” and considering this audio recording, as the creator of these annotations I was given a list of recommended poems to select from, which offered me a baseline of the context I needed to proceed with the AVAnnotate project. Just by going off the recording we only have the name of the poem spoken aloud, not the poet or author. In a scenario into the deep future where the link to this poetry recording were to randomly circulate while missing any labels to denote the poet and to provide context, then there would be a risk of cultural loss for the sound artifact, as Clement and Fischer have described. In the caption on my AVAnnotate project page, I explicitly reference the poet and the title of the poem, so anyone who discovers the link to this project and set of annotations has a complete understanding that this is a performance of the poet Michael Ondaatje’s “The Cinnamon Peeler.” By providing as much a balanced range of context, annotations together with transcription help to preserve a poetry performance. The analogy I think of for this situation is the idea that a book is bound to its cover indicating it’s title, author, and other paratextual information that it will remain bound to unless the cover is ripped off, destroyed, and lost. In relation, the transcription, background author information and title of a poem and its performance are exactly these types of paratextual elements that a book would have, and if the direct link to an audio were preserved without the respective synergistic components for commentary, it would lose aspects that preserve a performance as a sound artifact. With just the link, an unsuspecting listener in the future may be unsure what this performance is about without research to connect the performance to its source material and poet."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The pros of annotating an audiotext and the approach to this type of framework allows for an enrichment of commentary on a poem, as poetry often shines best in performance, and having annotations that match a recording timeline allow the function for writers to make notes of a recording like they would in the margins of a printed text. A mild limitation I ran into with the basic, unedited software only using the most basic and advertised features of AVAnnotate are that my two matching sets of transcription and commentary are listed in succession as opposed to visually appearing side-by-side, though this is a trivial visual and organizational concern. There exists a novelty to annotating an audiotext or poetry recording as it is far less common than the annotating of its written counterpart, nor is there a popular and standardized system for audio annotation. AVAnnotate clearly has the potential to rise and grow as an answer to that problem, which addresses and aligns with my vision for this project, of providing a transcription and analysis at the same time for a poem, mimicking the process of writing in the margins of a poetry recording’s written counterpart. Through AVAnnotate, one can take note of a recording’s qualities and the performance aspect itself. The enrichment of these annotations would not be possible by only studying the text itself, with its form and content to commentate on."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Works Cited"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Clement, Tanya E., and Liz Fischer. “Audiated Annotation from the Middle Ages to the Open Web.” Digital Humanities Quarterly, Digital Humanities Quarterly, 2021, www.digitalhumanities.org/dhq/vol/15/1/000512/000512.html."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "“Introduction.” Close Listening: Poetry and the Performed Word, edited by Charles Bernstein, Oxford University Press, 1998. ProQuest Ebook Central, https://ebookcentral.proquest.com/lib/ualberta/detail.action?docID=728829."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "McVey, Christopher. “Reclaiming the Past: Michael Ondaatje and the Body of History.” Journal of Modern Literature, vol. 37, no. 2, 2014, pp. 141–60. JSTOR, https://doi.org/10.2979/jmodelite.37.2.141. Accessed 5 Apr. 2025."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ondaatje, Michael. “The Cinnamon Peeler.” https://ia600607.us.archive.org/31/items/sample-01_202502/Sample01.mp3. Accessed 11 Mar. 2025."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "---. Running in the Family. Vintage Canada, 2011."
+        }
+      ]
+    }
+  ],
+  "title": "Introduction to Michael Ondaatje's \"The Cinnamon Peeler\"",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "introduction-to-michael-ondaatjes-the-cinna",
+  "created_at": "2025-04-23T17:46:45.741Z",
+  "created_by": "b1underbuss",
+  "updated_at": "2025-04-23T17:46:45.741Z",
+  "updated_by": "b1underbuss"
+}
